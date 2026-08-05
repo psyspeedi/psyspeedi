@@ -79,6 +79,7 @@
 
 Открыт к предложениям: **Frontend / Vue**, удалённо, полная занятость. Готов при необходимости перейти на React или Angular.
 
+[![Telegram](https://img.shields.io/badge/@hardovsky-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hardovsky)
 [![Email](https://img.shields.io/badge/vlasenko@live.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vlasenko@live.ru)
 
 ---
@@ -150,6 +151,7 @@ Found a critical bug in nested drag groups ([issue #83](https://github.com/formk
 
 Open to **Frontend / Vue** roles — remote, full-time. Happy to move to React or Angular if the role calls for it.
 
+[![Telegram](https://img.shields.io/badge/@hardovsky-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hardovsky)
 [![Email](https://img.shields.io/badge/vlasenko@live.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vlasenko@live.ru)
 
 </details>
