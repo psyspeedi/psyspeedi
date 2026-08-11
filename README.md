@@ -15,7 +15,17 @@
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
 </p>
 
+<p align="center">
+  <a href="https://t.me/hardovsky"><img src="https://img.shields.io/badge/@hardovsky-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:vlasenko@live.ru"><img src="https://img.shields.io/badge/vlasenko@live.ru-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 ---
+
+<details open>
+<summary><b>🇷🇺 Русская версия</b></summary>
+
+<br>
 
 ## О себе
 
@@ -79,10 +89,9 @@
 
 Открыт к предложениям: **Frontend / Vue**, удалённо, полная занятость. Готов при необходимости перейти на React или Angular.
 
-[![Telegram](https://img.shields.io/badge/@hardovsky-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hardovsky)
-[![Email](https://img.shields.io/badge/vlasenko@live.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vlasenko@live.ru)
+Telegram — [@hardovsky](https://t.me/hardovsky) &nbsp;·&nbsp; почта — [vlasenko@live.ru](mailto:vlasenko@live.ru)
 
----
+</details>
 
 <details>
 <summary><b>🇬🇧 English version</b></summary>
@@ -151,8 +160,6 @@ Found a critical bug in nested drag groups ([issue #83](https://github.com/formk
 
 Open to **Frontend / Vue** roles — remote, full-time. Happy to move to React or Angular if the role calls for it.
 
-[![Telegram](https://img.shields.io/badge/@hardovsky-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hardovsky)
-[![Email](https://img.shields.io/badge/vlasenko@live.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vlasenko@live.ru)
+Telegram — [@hardovsky](https://t.me/hardovsky) &nbsp;·&nbsp; email — [vlasenko@live.ru](mailto:vlasenko@live.ru)
 
 </details>
-
